@@ -1,6 +1,9 @@
 # ApiAutomationPerformanceFalabella
  prueba de performance api falabella
  
+ Software Requerido:
+ 1. Jmeter 5.3
+ 
   Instructivo:
  
  1.Clonar proyecto desde el repositorio:
